@@ -9,6 +9,7 @@ public class Main extends Application
 {
 	//just added to github!
 	// Added this comment again!
+	//Adding a even newer comment! Hopefully GitHub Desktop Beta would work omg
 	@Override
 	public void start(Stage primaryStage) throws Exception
 	{
