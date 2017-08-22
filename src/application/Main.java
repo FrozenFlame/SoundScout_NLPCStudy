@@ -8,6 +8,7 @@ import javafx.scene.layout.BorderPane;
 public class Main extends Application
 {
 	//just added to github!
+	// Added this comment again!
 	@Override
 	public void start(Stage primaryStage) throws Exception
 	{
